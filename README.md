@@ -1,16 +1,13 @@
-# notes
 
-A new Flutter project.
+# Notes
 
-## Getting Started
+Clone of Google Keep built using Flutter and Firebase
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://raw.githubusercontent.com/praneshcode/notes/main/screenshots/screenshot1.jpg)
+![App Screenshot](https://raw.githubusercontent.com/praneshcode/notes/main/screenshots/screenshot2.jpg)
+![App Screenshot](https://raw.githubusercontent.com/praneshcode/notes/main/screenshots/screenshot3.jpg)
+![App Screenshot](https://raw.githubusercontent.com/praneshcode/notes/main/screenshots/screenshot4.jpg)
+![App Screenshot](https://raw.githubusercontent.com/praneshcode/notes/main/screenshots/screenshot5.jpg)
+![App Screenshot](https://raw.githubusercontent.com/praneshcode/notes/main/screenshots/screenshot6.jpg)
