@@ -1,7 +1,7 @@
 
 # Notes
 
-Clone of Google Keep built using Flutter and Firebase
+Clone of Google Keep built using Flutter and Firebas
 
 ## Screenshots
 
